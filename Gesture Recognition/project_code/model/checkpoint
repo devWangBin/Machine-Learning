@@ -1,0 +1,6 @@
+model_checkpoint_path: "my_geature_model-4802"
+all_model_checkpoint_paths: "my_geature_model-4402"
+all_model_checkpoint_paths: "my_geature_model-4502"
+all_model_checkpoint_paths: "my_geature_model-4602"
+all_model_checkpoint_paths: "my_geature_model-4702"
+all_model_checkpoint_paths: "my_geature_model-4802"
